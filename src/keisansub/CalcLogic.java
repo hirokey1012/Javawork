@@ -1,4 +1,4 @@
-package keisan;
+package keisansub;
 
 public class CalcLogic {
 
